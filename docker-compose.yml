@@ -1,0 +1,10 @@
+db:
+  build: ./mysqlcontainer
+web: 
+  build: .
+  links: 
+    - db
+  ports: 
+    - "10000:8080"
+    - "10001:8181"
+    - "10002:4848"

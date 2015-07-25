@@ -1,0 +1,11 @@
+com/ubiwhere/webservices/PersonServices.class
+com/ubiwhere/entities/Phonenumber.class
+com/ubiwhere/entities/Company.class
+com/ubiwhere/business_logic/responses/PersonResponse.class
+com/ubiwhere/webservices/CompanyServices.class
+com/ubiwhere/business_logic/PersonBean.class
+com/ubiwhere/desafioubiwhere/ApplicationConfig.class
+com/ubiwhere/entities/Person.class
+com/ubiwhere/business_logic/responses/CompanyResponse.class
+com/ubiwhere/business_logic/CompanyBean.class
+com/example/HelloArquillian.class

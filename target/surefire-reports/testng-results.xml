@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="53" started-at="2015-07-25T17:46:25Z" finished-at="2015-07-25T17:46:25Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="53" started-at="2015-07-25T17:46:25Z" finished-at="2015-07-25T17:46:25Z">
+      <class name="com.ubiwhere.unit_tests.NewEmptyTestNGTest">
+        <test-method status="PASS" signature="arquillianBeforeSuite()[pri:0, instance:com.ubiwhere.unit_tests.NewEmptyTestNGTest@2344fc66]" name="arquillianBeforeSuite" is-config="true" duration-ms="341" started-at="2015-07-25T18:46:25Z" finished-at="2015-07-25T18:46:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arquillianBeforeSuite -->
+        <test-method status="PASS" signature="arquillianAfterSuite()[pri:0, instance:com.ubiwhere.unit_tests.NewEmptyTestNGTest@2344fc66]" name="arquillianAfterSuite" is-config="true" duration-ms="2" started-at="2015-07-25T18:46:26Z" finished-at="2015-07-25T18:46:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arquillianAfterSuite -->
+      </class> <!-- com.ubiwhere.unit_tests.NewEmptyTestNGTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
